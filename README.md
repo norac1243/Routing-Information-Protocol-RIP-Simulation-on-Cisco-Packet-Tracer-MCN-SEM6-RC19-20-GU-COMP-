@@ -258,7 +258,7 @@ Now get rid of the connection line between router0 and router2.
 Click the Envelope Icon and then click on PC0 and PC1
 </br>
 There is only one route in this case, that is route2, so the packets have no choice but to choose that route. </br>
-![sim route2](https://github.com/norac1243/Routing-Information-Protocol-RIP-Simulation-on-Cisco-Packet-Tracer-MCN-SEM6-RC19-20-GU-COMP-/blob/main/PICTURES-RIP/simulation-pic2.JPG)
+![sim_route2](https://raw.githubusercontent.com/norac1243/Routing-Information-Protocol-RIP-Simulation-on-Cisco-Packet-Tracer-MCN-SEM6-RC19-20-GU-COMP-/main/PICTURES-RIP/simulation-pic2.JPG)
 
 # When Simulation fails, what can we do to fix it?
 Normally packet simulation doesn't work the first time. So try doing it two times more.That is the same step of clicking the Envelope Icon and then click on PC0 and PC1. </br></br></br>

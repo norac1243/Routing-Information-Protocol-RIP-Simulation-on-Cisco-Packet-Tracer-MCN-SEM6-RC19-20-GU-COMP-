@@ -132,8 +132,7 @@ For Router0, accrding to the [diagram](##network-topology-diagram)
 I. its serial port, on the line connecting router0 and router2, has IP address: 192.168.1.254/30</br>
 To set IP address:</br>
 1. First check what kind of port this is. For me its a DCE serial 2/0. For you, instead of this it can be DCE serial 3/0, DTE serial 2/0 or DTE serial 3/0 . So properly note that before proceeding.</br>
-![SHOW](https://github.com/norac1243/Routing-Information-Protocol-RIP-Simulation-on-Cisco-Packet-Tracer-MCN-SEM6-RC19-20-GU-COMP-/PICTURES-RIP
-/router-show-step-44444.JPG)</br>
+![SHOW](https://github.com/norac1243/Routing-Information-Protocol-RIP-Simulation-on-Cisco-Packet-Tracer-MCN-SEM6-RC19-20-GU-COMP-/blob/main/PICTURES-RIP/router-show-step-44444.JPG)</br>
 2. Since mine is a DCE serial 2/0, I do the following commands. Some commands are marked "Only for DCE". These commands need not be implemented for DTE.</br>
 Type in::</br>
 ![4.1](https://github.com/norac1243/RIP-Protocol/blob/main/PICTURES-RIP/step-4-substep-code-1.JPG)</br>

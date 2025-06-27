@@ -135,7 +135,8 @@ To set IP address:</br>
 ![SHOW](https://github.com/norac1243/Routing-Information-Protocol-RIP-Simulation-on-Cisco-Packet-Tracer-MCN-SEM6-RC19-20-GU-COMP-/blob/main/PICTURES-RIP/router-show-step-44444.JPG)</br>
 2. Since mine is a DCE serial 2/0, I do the following commands. Some commands are marked "Only for DCE". These commands need not be implemented for DTE.</br>
 Type in::</br>
-![4.1](https://github.com/norac1243/RIP-Protocol/blob/main/PICTURES-RIP/step-4-substep-code-1.JPG)</br>
+![4.1](https://raw.githubusercontent.com/norac1243/Routing-Information-Protocol-RIP-Simulation-on-Cisco-Packet-Tracer-MCN-SEM6-RC19-20-GU-COMP-/main/PICTURES-RIP/router-show-step-44444.JPG
+)</br>
 Explanation::</br>
 [1] Enter global configuration mode by typing in  "conf t" (short) or "configure terminal" (full) </br>
 [2] To set IP address of se2/0 (in my case) we navigate to it by typing,</br>
